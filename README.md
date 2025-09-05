@@ -1,4 +1,4 @@
-🛒 Sales_Data_Analysis_using_SQL
+## 🛒 Sales_Data_Analysis_using_SQL
 
 This project demonstrates how to use **SQL** for end-to-end **retail sales data analysis**.  
 The analysis is based on a `retails` table created in MySQL and covers **data cleaning, exploration, and solving business problems**.
